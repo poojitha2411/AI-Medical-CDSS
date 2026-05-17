@@ -37,4 +37,4 @@ python app.py
 ```
 
 ## Project Author
-Final Year Project - Batch B6
+Thatti Poojitha

@@ -1,0 +1,12 @@
+torch
+transformers
+scikit-learn
+xgboost
+pandas
+numpy
+nltk
+sentence-transformers
+datasets
+spacy
+gradio
+google-genai
